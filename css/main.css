@@ -1,9 +1,9 @@
 
 
 /* Inserta tu código aqui */
-/*body{
+body{
 margin: auto;
-}*/
+}
 
 .contenedor {
 	width: 800px;
@@ -59,7 +59,7 @@ hr{
 
 .nombre {
 	position: absolute;
-	bottom:0;
-	right: 0;
+	bottom:-14px;
+	right: 3px;
 	color: #fff;
 }
